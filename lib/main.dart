@@ -103,25 +103,6 @@ class MyHomePage extends StatelessWidget {
               ),
             ],
           )
-          // SizedBox(height: 28.h),
-          // Wrap(
-          //   children: [
-          //     Text(
-          //       "Dont’t have Account ? ",
-          //       style: TextStyle(
-          //         fontSize: 16.sp,
-          //         color: textColor,
-          //       ),
-          //     ),
-          //     Text(
-          //       "Sign Up",
-          //       style: TextStyle(
-          //         fontSize: 16.sp,
-          //         color: buttonColor,
-          //       ),
-          //     ),
-          //   ],
-          // )
         ]),
       ),
     );
